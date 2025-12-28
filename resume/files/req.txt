@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
+pandas
+pypdf
+python-docx
+python-dotenv
+pydantic
