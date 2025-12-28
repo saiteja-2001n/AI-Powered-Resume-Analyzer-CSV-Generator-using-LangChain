@@ -7,9 +7,12 @@ venv/
 env/
 .env/
 
-# Python cache
+# Python Cache
 __pycache__/
 *.pyc
 
 # VS Code
 .vscode/
+
+# Environment variables (DO NOT PUSH TO GITHUB)
+.env
