@@ -1,0 +1,15 @@
+# Ignore the entire virtual environment folder
+resume/
+
+# If you create new venvs in future
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
